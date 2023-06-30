@@ -1,0 +1,13 @@
+{
+  "eos_token": "</s>",
+  "model_max_length": 512,
+  "name_or_path": "/content/drive/MyDrive/translate_office_title/models/checkpoint-7000",
+  "pad_token": "<pad>",
+  "separate_vocabs": false,
+  "source_lang": "zho",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": null,
+  "target_lang": "eng",
+  "tokenizer_class": "MarianTokenizer",
+  "unk_token": "<unk>"
+}
