@@ -1,18 +1,3 @@
----
-language:
-- zh
-tags:
-- Seq2SeqLM
-- 古文
-- 文言文
-- 中国古代官职翻译
-- ancient
-- classical
-license: cc-by-nc-sa-4.0
-metrics:
-- sacrebleu
----
-
 # <font color="IndianRed"> TITO (Classical Chinese Office Title Translation)</font>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UoG3QebyBlK6diiYckiQv-5dRB9dA4iv?usp=sharing/)
 
