@@ -17,7 +17,7 @@ tokenizer = MarianTokenizer.from_pretrained(model_name)
 model = MarianMTModel.from_pretrained(model_name).to(device)
 ```
 
-<font color="cornflowerblue"> 2. Load Data </font>
+<font color="cornflowerblue"> 2. Load data </font>
 ```python
 # Load your data here
 tobe_translated = ['講筵官','判司簿尉','散騎常侍','殿中省尚輦奉御']
